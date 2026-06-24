@@ -1,0 +1,10 @@
+=== Job Applications Log ===
+Total Applicants: 1
+
+Name: tt
+Email: ktt@14
+Age: 19
+Job: Full Stack Developer
+Description: good
+Portfolio: 
+---
